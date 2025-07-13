@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Python+Developer;Backend+Engineer+in+training;Loves+clean+code+and+problem+solving&center=true&width=500&height=45" />
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=tokyonight)
-
 ---
 
 🎓 Junior Software Developer | 📍 Dobrich, Bulgaria  
@@ -55,3 +52,8 @@
 ---
 
 ⭐ If you like what I do, feel free to explore my repositories and give a star!
+
+---
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=tokyonight)
