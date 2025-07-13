@@ -7,6 +7,8 @@
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=tokyonight)
+
 ---
 
 🎓 Junior Software Developer | 📍 Dobrich, Bulgaria  
