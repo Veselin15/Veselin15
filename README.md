@@ -1,5 +1,11 @@
 # 👋 Hi there, I'm Veselin Veselinov!
 
+---
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+---
+
 🎓 Junior Software Developer | 📍 Dobrich, Bulgaria  
 💻 Passionate about Python, Backend Development, and Problem Solving  
 📚 Currently studying Software Engineering at SoftUni
