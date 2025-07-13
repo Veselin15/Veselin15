@@ -10,20 +10,40 @@
 
 - 🔧 I build backend systems using **Python**, **Django**, and **PostgreSQL**
 - 🧠 I enjoy working on real-world problems and learning new technologies
-- 🧰 Tools I use:<img width="48" height="48" alt="4375050_logo_python_icon (1)" src="https://github.com/user-attachments/assets/128377eb-3ce5-46ef-86d8-a6dd3e7e5a2a" />
-
-, `Docker`, `Git`, `pgAdmin`, `VS Code`
-- 📈 Always aiming to write clean, efficient, and testable code
+- 🧰 Tools I use:  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>  
+- 📈 Always aiming to write clean, efficient, and testable code  
 - 🌍 Languages: 🇧🇬 Bulgarian (native), 🇺🇸 English, 🇩🇪 German
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C++, SQL, HTML, CSS  
-**Frameworks:** Django, PyQt5  
-**Databases:** PostgreSQL, MS SQL Server  
-**Tools:** Docker, Git, VS Code, PyCharm, pgAdmin
+**Languages:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+
+**Frameworks & Libraries:**  
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white"/>
+
+**Databases:**  
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+
+**Tools:**  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>  
+<img src="https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white"/>
 
 ---
 
