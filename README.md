@@ -10,7 +10,8 @@
 
 - 🔧 I build backend systems using **Python**, **Django**, and **PostgreSQL**
 - 🧠 I enjoy working on real-world problems and learning new technologies
-- 🧰 Tools I use: <img width="10" height="10" alt="4375050_logo_python_icon" src="https://github.com/user-attachments/assets/993f4c3e-546d-40f3-8777-f9ace5d3e4fc" />
+- 🧰 Tools I use:<img width="48" height="48" alt="4375050_logo_python_icon (1)" src="https://github.com/user-attachments/assets/128377eb-3ce5-46ef-86d8-a6dd3e7e5a2a" />
+
 , `Docker`, `Git`, `pgAdmin`, `VS Code`
 - 📈 Always aiming to write clean, efficient, and testable code
 - 🌍 Languages: 🇧🇬 Bulgarian (native), 🇺🇸 English, 🇩🇪 German
