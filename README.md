@@ -2,8 +2,13 @@
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-![Veselin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veselin15&show_icons=true&theme=tokyonight)
+<h1 align="center">
+  Hi there, I'm Veselin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Python+Developer;Backend+Engineer+in+training;Loves+clean+code+and+problem+solving&center=true&width=500&height=45" />
+</p>
 
 
 ---
