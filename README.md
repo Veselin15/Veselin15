@@ -3,6 +3,8 @@
 ---
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+![Veselin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veselin15&show_icons=true&theme=tokyonight)
+
 
 ---
 
