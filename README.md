@@ -53,7 +53,3 @@
 
 ⭐ If you like what I do, feel free to explore my repositories and give a star!
 
----
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=tokyonight)
