@@ -1,107 +1,61 @@
-<h1 align="center">
+<div align="center">
 
-  Hi there, I'm Veselin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" />
 
-</h1>
+  <h1 align="center">Veselin Veselinov</h1>
 
+  <a href="https://veselin-veselinov.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Architecture;Linux+%26+Home+Server;veselin-veselinov.com" alt="Typing SVG" />
+  </a>
 
+  <br/><br/>
 
-<p align="center">
+  <a href="https://veselin-veselinov.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/38BDF8" height="40" width="40" alt="Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/veselin-veselinov-a7bb9930a" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:veselinveselinov06@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="40" alt="Email" />
+  </a>
 
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Python+Developer;Backend+Engineer+in+training;Loves+clean+code+and+problem+solving&center=true&width=500&height=45" />
+</div>
 
-</p>
-
-
-
----
-
-
-
-🎓 Junior Software Developer | 📍 Dobrich, Bulgaria  
-
-💻 Passionate about Python, Backend Development, and Problem Solving  
-
-📚 Currently studying Software Engineering at SoftUni
-
-
-
----
-
-
-
-## 🚀 About Me
-
-
-
-- 🔧 I build backend systems using **Python**, **Django**, and **PostgreSQL**
-
-- 🧠 I enjoy solving real-world problems and constantly learning new technologies
-
-- 🧰 Tools I use:  
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-  ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-- 📈 Always aiming to write clean, efficient, and testable code  
-
-- 🌍 Languages: 🇧🇬 Bulgarian (native), 🇺🇸 English, 🇩🇪 German
-
-
+<br/>
 
 ---
 
+### ⚡ What I Do
 
+I don't just write code; I engineer solutions. From spinning up custom **Linux servers** to architecting scalable **Django APIs**, I love the entire lifecycle of software development.
 
-## 🎯 Currently Working On
-
-
-
-- Deepening my skills in **FastAPI**, **Django**, and **C++**
-
-- Contributing to personal and open-source projects
-
-- Preparing for a career in backend or full-stack development
-
-
+- 🏗️ **Building:** A comprehensive [Web Portfolio](https://veselin-veselinov.com) hosted on my own hardware.
+- 🔧 **Stack:** Python, PostgreSQL, Docker, Nginx, Redis.
+- 🎯 **Focus:** Writing clean, testable, and efficient backend code.
 
 ---
 
+### 🧰 Tech Arsenal
 
-
-## 📫 Let's Connect!
-
-
-
-- ✉️ veselinveselinov06@gmail.com  
-
-- 💼 [LinkedIn](https://linkedin.com/in/veselin-veselinov-a7bb9930a)
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,linux,nginx,git,redis,vscode,pycharm&perline=11&theme=dark" />
+</div>
 
 ---
 
+### 🏆 Achievements
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Veselin15&theme=algolia&no-frame=true&column=7&margin-w=15" width="100%" />
+  </a>
+</div>
 
-⭐ If you like what I do, feel free to explore my repositories and give a star!
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
+</div>
