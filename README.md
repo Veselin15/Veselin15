@@ -52,7 +52,7 @@ I am a dedicated **Junior Developer** turning ideas into code. I don't just writ
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Veselin15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" width="100%" alt="Veselin's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=veski4a&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" width="100%" alt="Veselin's Stats" />
       </td>
       <td valign="top" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veski4a&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="100%" alt="Top Languages" />
