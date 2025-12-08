@@ -55,12 +55,11 @@ I am a dedicated **Junior Developer** turning ideas into code. I don't just writ
         <img src="https://github-readme-stats.vercel.app/api?username=Veselin15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" width="100%" alt="Veselin's Stats" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veski4a&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veselin15&theme=dark&show_icons=true)
   
   <br/>
   
