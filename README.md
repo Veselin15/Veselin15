@@ -1,28 +1,26 @@
 <div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-
-  <h1 align="center">Hi, I'm Veselin! 👋</h1>
+  <h1 align="center">Hi there, I'm Veselin! 👋</h1>
 
   <a href="https://veselin-veselinov.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Engineer;System+Architecture;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%26+Django+Mastery;Home+Server+Enthusiast;Check+out+my+website!+%E2%86%93" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <p align="center">
-    <a href="https://veselin-veselinov.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Website" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/veselin-veselinov-a7bb9930a" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:veselinveselinov06@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <a href="https://veselin-veselinov.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-veselin--veselinov.com-0f172a?style=flat&logo=google-chrome&logoColor=38bdf8&labelColor=0f172a" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/veselin-veselinov-a7bb9930a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" height="35" />
+  </a>
+  &nbsp;
+  <a href="mailto:veselinveselinov06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335" height="35" />
+  </a>
 
 </div>
 
@@ -30,42 +28,47 @@
 
 ---
 
-### 🚀 About Me
+### 💻 About Me
 
-I'm a **Junior Software Developer** from **Bulgaria**, focused on building robust and scalable backend systems. I specialize in turning complex logic into clean, efficient Python code.
+I am a dedicated **Junior Developer** turning ideas into code. I don't just write software; I build **systems**. From configuring bare-metal Linux servers to deploying scalable Django apps with Docker, I love the entire stack.
 
-- 🔭 Currently building my **[Home Lab & AI Portfolio](https://veselin-veselinov.com)**
-- 🐧 Linux enthusiast – I run my own production servers on bare metal.
-- 💡 Always learning: Deepening skills in **Microservices**, **FastAPI**, and **DevOps**.
+- 🔭 **Current Project:** [My Personal Cloud & Portfolio](https://veselin-veselinov.com) running on a custom home server.
+- ⚙️ **Stack:** Python, Django, PostgreSQL, Nginx, Docker, Linux.
+- 🎯 **Goal:** Mastering Backend Architecture & DevOps.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Arsenal
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git,linux,nginx,redis,vscode,pycharm,cpp,html,css,js&perline=8&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,linux,nginx,git,redis,vscode,pycharm&perline=11&theme=dark" />
 </div>
 
 ---
 
-### ⚡ GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Veselin15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866" width="100%" alt="Veselin's Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
   <br/>
-  <a href="https://github.com/Veselin15">
-    <img src="https://github-readme-stats.vercel.app/api?username=Veselin15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Veselin15">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
-  </a>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veselin15&theme=react&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="80%" alt="Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://veselin-veselinov.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer&text=Visit%20My%20Website&fontSize=25&fontColor=38bdf8&animation=fadeIn&fontAlignY=40" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Visit%20veselin-veselinov.com&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
   </a>
 </div>
