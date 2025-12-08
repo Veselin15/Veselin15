@@ -59,6 +59,8 @@ I am a dedicated **Junior Developer** turning ideas into code. I don't just writ
       </td>
     </tr>
   </table>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veselin15&theme=dark&show_icons=true)
   
   <br/>
   
