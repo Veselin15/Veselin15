@@ -1,61 +1,69 @@
-<div align="center">
+<h1 align="center">
+  Hi there, I'm Veselin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+</h1>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Python+Developer;Backend+Engineer+in+training;Loves+clean+code+and+problem+solving;Check+out+my+website!&center=true&width=500&height=45&color=3776AB" />
+</p>
 
-  <h1 align="center">Veselin Veselinov</h1>
-
-  <a href="https://veselin-veselinov.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Architecture;Linux+%26+Home+Server;veselin-veselinov.com" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.veselin-veselinov.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-veselin--veselinov.com-3776AB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-
-  <br/><br/>
-
-  <a href="https://veselin-veselinov.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/38BDF8" height="40" width="40" alt="Website" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/veselin-veselinov-a7bb9930a" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:veselinveselinov06@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-</div>
-
-<br/>
+</p>
 
 ---
 
-### ⚡ What I Do
+### 👨‍💻 About Me
 
-I don't just write code; I engineer solutions. From spinning up custom **Linux servers** to architecting scalable **Django APIs**, I love the entire lifecycle of software development.
-
-- 🏗️ **Building:** A comprehensive [Web Portfolio](https://veselin-veselinov.com) hosted on my own hardware.
-- 🔧 **Stack:** Python, PostgreSQL, Docker, Nginx, Redis.
-- 🎯 **Focus:** Writing clean, testable, and efficient backend code.
-
----
-
-### 🧰 Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,linux,nginx,git,redis,vscode,pycharm&perline=11&theme=dark" />
-</div>
+- 📍 Based in **Dobrich, Bulgaria**
+- 🎓 Studying **Software Engineering at SoftUni**
+- 💻 Passionate about **Backend Development** (Python, Django, PostgreSQL)
+- 🚀 Currently deepening skills in **FastAPI** and **C++**
+- 🌍 Languages: **Bulgarian** (Native), **English** (Fluent), **German** (Basic)
 
 ---
 
-### 🏆 Achievements
+### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Veselin15&theme=algolia&no-frame=true&column=7&margin-w=15" width="100%" />
-  </a>
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Backend & Databases**<br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+
+**Tools & DevOps**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+
 </div>
 
-<br/>
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
+
+---
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
+</p>
