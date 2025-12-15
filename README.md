@@ -10,9 +10,11 @@
   <a href="https://www.veselin-veselinov.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-veselin--veselinov.com-3776AB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
+  
   <a href="https://linkedin.com/in/veselin-veselinov-a7bb9930a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:veselinveselinov06@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
