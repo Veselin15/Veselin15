@@ -46,11 +46,10 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Veselin15&theme=dark" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Veselin15&show_icons=true&theme=dark" alt="Veselin15's GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=Veselin15&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Veselin15&theme=dark)](https://git.io/streak-stats)
 
 ---
 
