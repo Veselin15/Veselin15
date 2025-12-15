@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Veselin15&show_icons=true&theme=dark" alt="Veselin15's GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Veselin15&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Veselin15&theme=react-dark" alt="Veselin15's Activity Graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
