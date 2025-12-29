@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi there, I'm Veselin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Python+Developer;Backend+Engineer+in+training;Student+at+Technical+University+Varna;Check+out+my+website!&center=true&width=500&height=45&color=3776AB" />
 </p>
