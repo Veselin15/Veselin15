@@ -28,7 +28,7 @@
 - 🎓 Currently studying at **Technical University Varna**
 - 💻 Passionate about **Backend Development** (Python, Django, PostgreSQL)
 - 🚀 Deepening skills in **FastAPI**, **C++**, and **System Architecture**
-- 🌍 Languages: **Bulgarian** (Native), **English** (Fluent), **German** (Basic)
+- 🌍 Languages: **Bulgarian** (Native), **English** (Fluent), **German** (Intermediate)
 
 ---
 
