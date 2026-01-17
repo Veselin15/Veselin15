@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&layout=compact&theme=dark" alt="Top Languages" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veselin15&theme=tokyonight)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veselin15&theme=react-dark" alt="Veselin15's Activity Graph" />
 </div>
 
