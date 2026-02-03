@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-- 📍 Based in **Varna/ Dobrich, Bulgaria**
+- 📍 Based in **Varna/Dobrich, Bulgaria**
 - 🎓 Currently studying at **Technical University Varna**
 - 💻 Passionate about **Backend Development** (Python, Django, PostgreSQL)
 - 🚀 Deepening skills in **FastAPI**, **C++**, and **System Architecture**
